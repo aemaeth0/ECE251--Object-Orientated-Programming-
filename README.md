@@ -1,5 +1,5 @@
 # ECE251 [Object Orientated Programming]
-## This folder contains code from ECE251, Object Orientated Programming [Java] at Purdue Northwest.
+ This folder contains code from ECE251, Object Orientated Programming [Java] at Purdue Northwest.
 
 # Lab 1
 ## Hello Java World
